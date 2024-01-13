@@ -1,0 +1,13 @@
+{
+  "6666666": {
+    "customer_name": "James Joyce",
+    "balance": 1337.0,
+    "transactions": [
+      {
+        "type": "withdrawal",
+        "amount": 420.69,
+        "timestamp": "2024-01-13 06:38:44"
+      }
+    ]
+  }
+}
