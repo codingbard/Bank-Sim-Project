@@ -1,6 +1,6 @@
 # this is a sample project that was made to practice integrating json files into python
 # and to practice nested dictionary stuff
-# the code is a mess, sorry [not really]
+# the code is a mess, sorry [not really]!
 
 import random
 import time
